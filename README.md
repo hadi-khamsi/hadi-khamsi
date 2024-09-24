@@ -1,4 +1,4 @@
-# ![Hadi Khamsi Name Banner](https://via.placeholder.com/1000x150/000000/FFFFFF?text=Hadi+Khamsi+|+Innovator+in+Technology+and+Finance)
+# ![Hadi Khamsi Name Banner](https://via.placeholder.com/1000x150/000000/FFFFFF?text=Hadi+Khamsi)
 
 **Financial Mathematics | Computer Science | Business Administration**  
 *DePaul University | Chicago, IL*
@@ -32,20 +32,16 @@ Hi, I'm Hadi Khamsi, a student at DePaul University pursuing Financial Mathemati
 
 ---
 
-### Let's Build Meaningful Connections!
+### Get in Touch Via:
 
-I enjoy connecting with individuals across all industries. Feel free to send me a message introducing yourself, or let’s set up a time for a coffee chat. 
-
-**Get in touch via:**
-
-- **⤷** Messaging me on [LinkedIn](https://www.linkedin.com/in/hadikhamsi)
-- **⤷** Emailing me at: [hadik8360@gmail.com](mailto:hadik8360@gmail.com)
-
-Let’s build something great together!
+**⤷** Messaging me on [LinkedIn](https://www.linkedin.com/in/hadikhamsi)  
+**⤷** Email, which can be found on my LinkedIn
 
 ---
 
 > “**Simplicity is the ultimate sophistication.**” – *Leonardo da Vinci*
+
+
 
 
 
