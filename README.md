@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hadi Khamsi
+
+**Financial Mathematics | Computer Science | Business Administration**  
+*DePaul University | Chicago, IL*
+
+---
+
+### About Me  
+Hi, I'm Hadi Khamsi, a student at DePaul University pursuing Financial Mathematics, Computer Science, and Business Administration. My passion lies in blending analytical thinking with computational solutions, focusing on the intersection of technology and finance.
+
+---
+
+### Skills
+
+- **Languages**:  
+  Python | R | Java | C | SAS | HTML/CSS/JavaScript
+
+- **Tools**:  
+  Git | React.js | Tableau | Power BI | Salesforce | Snowflake
+
+---
+
+### Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hadi%20Khamsi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hadikhamsi)
+
+---
+
+“**Simplicity is the ultimate sophistication.**” – *Leonardo da Vinci*
 
 <!--
 **hadi-khamsi/hadi-khamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
