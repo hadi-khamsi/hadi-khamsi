@@ -6,7 +6,7 @@
 ---
 
 ### About Me  
-Hi, I'm Hadi Khamsi, a student at DePaul University pursuing Financial Mathematics, Computer Science, and Business Administration. My passion lies in blending analytical thinking with computational solutions, focusing on the intersection of technology and finance.
+Hi, I'm Hadi Khamsi, a student at DePaul University pursuing Financial Mathematics, Computer Science, and Business Administration. My passion lies in blending analytical thinking with computational solutions, focusing on the intersection of technology and business.
 
 ---
 
@@ -16,7 +16,7 @@ Hi, I'm Hadi Khamsi, a student at DePaul University pursuing Financial Mathemati
   Python | R | Java | C | SAS | HTML/CSS/JavaScript
 
 - **Tools**:  
-  Git | React.js | Tableau | Power BI | Salesforce | Snowflake
+  Git | Linux/Unix | React.js | Jira | Tableau | Power BI | Salesforce | Snowflake | Capital IQ | Microsoft Office | Google Workspace
 
 ---
 
